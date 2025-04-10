@@ -19,6 +19,6 @@ Repository for final project for ECEN 766
 - contatins the meta information of the subjects[age, gender, height, weight, Hemodlobin density]
 
 ### ML tests
-shows {} 
+- shows {} 
     
   
