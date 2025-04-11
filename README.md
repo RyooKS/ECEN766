@@ -18,8 +18,11 @@ Repository for final project for ECEN 766
 ### Subject_info.csv 
 - contatins the meta information of the subjects[age, gender, height, weight, Hemodlobin density]
 
-### LSTM tests
+### LSTM tests.ipynb
 - Code for testing an LSTM model.
+
+### ECEN_766_Hemoglobin_Data_Processing.ipynb
+- Code for processing Data
 
 ## References
 
