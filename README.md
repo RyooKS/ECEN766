@@ -10,13 +10,13 @@ Repository for final project for ECEN 766
 ## Overview
 
 ### Processed_data 
-- contains the orginal PPG values of "Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography" in a csv format, as it was originally in a matlab format.     
+- Contains the orginal PPG values of "Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography" in a csv format, as it was originally in a matlab format.     
     
 ### Procedded_2Wavelengths
-- contain PPG data of 660nm and 940nm, the initial wavelengths we used to train the model. 
+- Contain PPG data of 660nm and 940nm, the initial wavelengths we used to train the model. 
 
 ### Filtered Wavelengths 
-- contain filtered PPG data,
+- Contain filtered PPG data,
 
 ### split_down_processed_data
 - Contains data that has been split at each individual pulse wave and down sampled to be the same length (100 samples)
