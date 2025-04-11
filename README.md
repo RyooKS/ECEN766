@@ -70,4 +70,7 @@ hippocampal region CA3. {\it Journal of Neuroscience} {\bf 15}(7):5249-5262.
 
 [13] Billett, H. H. (1990). Hemoglobin and hematocrit. In Clinical methods: The history, physical, and laboratory examinations (3rd ed., pp. 1200–1205). Butterworths.
 
+[14] Chen Y, Zhong K, Zhu Y, Sun Q. Two-stage hemoglobin prediction based on prior causality. Front Public Health. 2022 Nov 30;10:1079389. doi: 10.3389/fpubh.2022.1079389. PMID: 36530714; PMCID: PMC9748421.
+
+
   
