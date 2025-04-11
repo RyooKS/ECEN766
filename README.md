@@ -7,18 +7,23 @@ Repository for final project for ECEN 766
 ## Overview
 
 ### Processed_data 
-- contains the orginal PPG values of {PAPER NAME}, as it was originally in a matlab format.     
+- contains the orginal PPG values of "Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography" in a csv format, as it was originally in a matlab format.     
     
 ### Procedded_2Wavelengths
 - contain PPG data of 660nm and 940nm, the initial wavelengths we used to train the model. 
 
 ### Filtered Wavelengths 
-- contain filtered PPG data, done by {METHODS}
+- contain filtered PPG data, 
 
 ### Subject_info.csv 
 - contatins the meta information of the subjects[age, gender, height, weight, Hemodlobin density]
 
-### ML tests
-- shows {} 
-    
+### LSTM tests
+- Code for testing an LSTM model.
+
+## References
+
+    Chen, Z.; Qin, H.; Ge, W.; Li, S.; Liang, Y. Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography. Electronics 2023, 12, 1346. https://doi.org/10.3390/electronics12061346
+
+
   
