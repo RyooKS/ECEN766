@@ -22,7 +22,7 @@ Repository for final project for ECEN 766
 - Contains data that has been split at each individual pulse wave and down sampled to be the same length (100 samples)
 
 ### Subject_info.csv 
-- contatins the meta information of the subjects[age, gender, height, weight, Hemodlobin density]
+- Contains the meta information of the subjects[age, gender, height, weight, Hemodlobin density]
 
 ### LSTM tests.ipynb
 - Code for testing an LSTM model.
@@ -37,7 +37,37 @@ Repository for final project for ECEN 766
 
 ## References
 
-    Chen, Z.; Qin, H.; Ge, W.; Li, S.; Liang, Y. Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography. Electronics 2023, 12, 1346. https://doi.org/10.3390/electronics12061346
+[1] Alexander, J.A.\ \& Mozer, M.C.\ (1995) Template-based algorithms for
+connectionist rule extraction. In G.\ Tesauro, D.S.\ Touretzky and T.K.\ Leen
+(eds.), {\it Advances in Neural Information Processing Systems 7},
+pp.\ 609--616. Cambridge, MA: MIT Press.
 
+[2] Bower, J.M.\ \& Beeman, D.\ (1995) {\it The Book of GENESIS: Exploring
+  Realistic Neural Models with the GEneral NEural SImulation System.}  New York:
+TELOS/Springer--Verlag.
+
+[3] Hasselmo, M.E., Schnell, E.\ \& Barkai, E.\ (1995) Dynamics of learning and
+recall at excitatory recurrent synapses and cholinergic modulation in rat
+hippocampal region CA3. {\it Journal of Neuroscience} {\bf 15}(7):5249-5262.
+
+[4] Chaparro, C. M., \& Suchdev, P. S. (2019) {\it Anemia epidemiology, pathophysiology, and etiology in low- and middle-income countries.} The American Journal of Clinical Nutrition, 111(6), 1499S-1506S.
+
+[5] Chen, Z., Qin, H., Ge, W., Li, S., \& Liang, Y. (2023) {\it Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography.} Electronics, 12(6), 1346.
+
+[6] Abuzairi, T., Vinia, E., Yudhistira, M. A., Rizkinia, M., \& Eriska, W. (2023) {\it A dataset of hemoglobin blood value and photoplethysmography signal for machine learning-based non-invasive hemoglobin measurement.} Data in Brief, 46, 108756. 
+
+[7] He, K., Zhang, X., Ren, S., \& Sun, J. (2016) {\it Deep Residual Learning for Image Recognition.} 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 770-778. 
+
+[8] Huang, G., Liu, Z., van der Maaten, L., \& Weinberger, K. Q. (2016) {\it Densely Connected Convolutional Networks.} arXiv preprint 
+
+[9] Ige, A. O., \& Sibiya, M. (2024) {\it State-of-the-Art in 1D Convolutional Neural Networks: A Survey.} IEEE Access, 12, 144082-144105. 
+
+[10] Taşdelen, A., \& Sen, B. (2021) {\it A hybrid CNN-LSTM model for pre-miRNA classification.} Scientific Reports, 11, 14125. 
+
+[11] Shenfield, A., \& Howarth, M. (2020) {\it A Novel Deep Learning Model for the Detection and Identification of Rolling Element-Bearing Faults.} Sensors (Basel, Switzerland), 20. 
+
+[12] Fine, J., Branan, K. L., Rodriguez, A. J., Boonya-ananta, T., Ajmal, Ramella-Roman, J. C., McShane, M. J., \& Coté, G. L. (2020) {\it Sources of inaccuracy in photoplethysmography for continuous cardiovascular monitoring.} Journal of Clinical Monitoring and Computing, 34(6), 1191-1205. 
+
+[13] Billett, H. H. (1990). Hemoglobin and hematocrit. In Clinical methods: The history, physical, and laboratory examinations (3rd ed., pp. 1200–1205). Butterworths.
 
   
