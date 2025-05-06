@@ -1,7 +1,8 @@
 # ECEN766
 
 # GANTT Chart for Project Schedule
-![image](https://github.com/user-attachments/assets/4f0c99fe-b1c7-47cc-acc7-b945ca534795)
+![image](https://github.com/user-attachments/assets/2ceaee98-9c02-4a3e-8a7f-f93d6222c0e6)
+
 
 Repository for final project for ECEN 766
 
