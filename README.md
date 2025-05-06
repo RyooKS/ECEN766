@@ -34,6 +34,14 @@ Repository for final project for ECEN 766
 ### ECEN_766_Hemoglobin_ML.ipynb
 - Basic 2D CNN for testing the split and downsampled data
 
+### XGBoost.ipynb
+- Code for using XGBoost Average intensity
+
+### ECEN766_Hemoglobin_LSTM.ipynb
+- LSTM for testing the split and downsampled data
+
+
+
 
 
 ## References
