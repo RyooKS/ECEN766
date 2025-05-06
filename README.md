@@ -34,6 +34,21 @@ Repository for final project for ECEN 766
 ### ECEN_766_Hemoglobin_ML.ipynb
 - Basic 2D CNN for testing the split and downsampled data
 
+### ECEN_766_Splitting_Hemoglobin_Data.ipynb
+- Code for splitting waveforms up so features could be extracted individually
+
+### FeatureExtraction.py
+- Code for using PyPPG library to extract features for baseline model
+
+### XGBooster.py
+- Feature selection, XGBoost training and testing for baseline model
+
+### features.csv
+- Formatted csv file with all extracted features
+
+### targets.csv
+- Formatted csv file with target features
+
 ### XGBoost.ipynb
 - Code for using XGBoost Average intensity
 
