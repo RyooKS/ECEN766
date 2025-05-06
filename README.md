@@ -46,40 +46,39 @@ Repository for final project for ECEN 766
 
 ## References
 
-[1] Alexander, J.A.\ \& Mozer, M.C.\ (1995) Template-based algorithms for
-connectionist rule extraction. In G.\ Tesauro, D.S.\ Touretzky and T.K.\ Leen
-(eds.), {\it Advances in Neural Information Processing Systems 7},
-pp.\ 609--616. Cambridge, MA: MIT Press.
-
-[2] Bower, J.M.\ \& Beeman, D.\ (1995) {\it The Book of GENESIS: Exploring
-  Realistic Neural Models with the GEneral NEural SImulation System.}  New York:
-TELOS/Springer--Verlag.
-
-[3] Hasselmo, M.E., Schnell, E.\ \& Barkai, E.\ (1995) Dynamics of learning and
-recall at excitatory recurrent synapses and cholinergic modulation in rat
-hippocampal region CA3. {\it Journal of Neuroscience} {\bf 15}(7):5249-5262.
-
-[4] Chaparro, C. M., \& Suchdev, P. S. (2019) {\it Anemia epidemiology, pathophysiology, and etiology in low- and middle-income countries.} The American Journal of Clinical Nutrition, 111(6), 1499S-1506S.
-
-[5] Chen, Z., Qin, H., Ge, W., Li, S., \& Liang, Y. (2023) {\it Research on a Non-Invasive Hemoglobin Measurement System Based on Four-Wavelength Photoplethysmography.} Electronics, 12(6), 1346.
-
-[6] Abuzairi, T., Vinia, E., Yudhistira, M. A., Rizkinia, M., \& Eriska, W. (2023) {\it A dataset of hemoglobin blood value and photoplethysmography signal for machine learning-based non-invasive hemoglobin measurement.} Data in Brief, 46, 108756. 
-
-[7] He, K., Zhang, X., Ren, S., \& Sun, J. (2016) {\it Deep Residual Learning for Image Recognition.} 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 770-778. 
-
-[8] Huang, G., Liu, Z., van der Maaten, L., \& Weinberger, K. Q. (2016) {\it Densely Connected Convolutional Networks.} arXiv preprint 
-
-[9] Ige, A. O., \& Sibiya, M. (2024) {\it State-of-the-Art in 1D Convolutional Neural Networks: A Survey.} IEEE Access, 12, 144082-144105. 
-
-[10] Taşdelen, A., \& Sen, B. (2021) {\it A hybrid CNN-LSTM model for pre-miRNA classification.} Scientific Reports, 11, 14125. 
-
-[11] Shenfield, A., \& Howarth, M. (2020) {\it A Novel Deep Learning Model for the Detection and Identification of Rolling Element-Bearing Faults.} Sensors (Basel, Switzerland), 20. 
-
-[12] Fine, J., Branan, K. L., Rodriguez, A. J., Boonya-ananta, T., Ajmal, Ramella-Roman, J. C., McShane, M. J., \& Coté, G. L. (2020) {\it Sources of inaccuracy in photoplethysmography for continuous cardiovascular monitoring.} Journal of Clinical Monitoring and Computing, 34(6), 1191-1205. 
-
-[13] Billett, H. H. (1990). Hemoglobin and hematocrit. In Clinical methods: The history, physical, and laboratory examinations (3rd ed., pp. 1200–1205). Butterworths.
-
-[14] Chen Y, Zhong K, Zhu Y, Sun Q. Two-stage hemoglobin prediction based on prior causality. Front Public Health. 2022 Nov 30;10:1079389. doi: 10.3389/fpubh.2022.1079389. PMID: 36530714; PMCID: PMC9748421.
+[1] Chaparro, C. M., & Suchdev, P. S. (2019) Anemia epidemiology, pathophysiology, and etiology in low- and
+middle-income countries. The American Journal of Clinical Nutrition, 111(6), 1499S-1506S.
+[2] Chen, Z., Qin, H., Ge, W., Li, S., & Liang, Y. (2023) Research on a Non-Invasive Hemoglobin Measurement
+System Based on Four-Wavelength Photoplethysmography. Electronics, 12(6), 1346.
+[3] Abuzairi, T., Vinia, E., Yudhistira, M. A., Rizkinia, M., & Eriska, W. (2023) A dataset of hemoglobin blood
+value and photoplethysmography signal for machine learning-based non-invasive hemoglobin measurement.
+Data in Brief, 46, 108756.
+[4] Fine, J., Branan, K. L., Rodriguez, A. J., Boonya-ananta, T., Ajmal, Ramella-Roman, J. C., McShane, M. J.,
+& Coté, G. L. (2020) Sources of inaccuracy in photoplethysmography for continuous cardiovascular monitoring.
+Journal of Clinical Monitoring and Computing, 34(6), 1191-1205.
+[5] Billett, H. H. (1990). Hemoglobin and hematocrit. In Clinical methods: The history, physical, and laboratory
+examinations (3rd ed., pp. 1200–1205). Butterworths.
+[6] Chen Y, Zhong K, Zhu Y, Sun Q. Two-stage hemoglobin prediction based on prior causality. Front
+Public Health. 2022 Nov 30;10:1079389. doi: 10.3389/fpubh.2022.1079389. PMID: 36530714; PMCID:
+PMC9748421.
+[7] Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., ... SciPy 1.0
+Contributors. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. Nature Methods,
+17(3), 261–272. https://doi.org/10.1038/s41592-019-0686-2
+[8] Goda, M. A., Charlton, P. H., & Behar, J. A. (2023). pyPPG: A Python toolbox for comprehensive
+photoplethysmography signal analysis. Physiological Measurement. https://doi.org/10.1088/1361-6579/ad33a2
+[9] Liu, L., Wang, Z., Zhang, X., Zhuang, Y., & Liang, Y. (2023). A novel model for noninvasive haemoglobin
+detection based on visibility network and clustering network for multi-wavelength PPG signals. Algorithms,
+18(2), 75. https://doi.org/10.3390/a18020075
+[10] Huang, G., Liu, Z., van der Maaten, L., & Weinberger, K. Q. (2016) Densely Connected Convolutional
+Networks. arXiv preprint
+[11] Ige, A. O., & Sibiya, M. (2024) State-of-the-Art in 1D Convolutional Neural Networks: A Survey. IEEE
+Access, 12, 144082-144105.
+9
+[12] Ta¸sdelen, A., & Sen, B. (2021) A hybrid CNN-LSTM model for pre-miRNA classification. Scientific Reports,
+11, 14125.
+[13] Winny, A., & Jurmo, N. (2024, July 8). The problem with pulse oximeters: A long history of racial bias.
+Johns Hopkins Bloomberg School of Public Health. https://publichealth.jhu.edu/2024/pulse-oximeters-racial-
+bias
 
 
   
